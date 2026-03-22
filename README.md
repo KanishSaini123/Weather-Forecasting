@@ -1,2 +1,2 @@
 # Weather-Forecasting!
-small weather web application using python
+small weather web application using python!
